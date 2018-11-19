@@ -1,0 +1,6 @@
+admin
+advanced
+mail
+sql
+webmail
+www
